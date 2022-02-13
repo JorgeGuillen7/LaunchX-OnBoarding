@@ -1,2 +1,2 @@
-Este repositorio contiene las katas del curso Propedeútico de Python para:
-***Launch X - Innovaccón Virtual***
+# LaunchX-OnBoarding
+Este es mi repositorio de la etapa de On Boarding para el programa Formación de Developers de Launch X - Innovacción
